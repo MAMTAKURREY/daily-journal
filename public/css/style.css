@@ -1,0 +1,35 @@
+html{
+    margin-bottom: 45px;
+}
+nav{
+    font-family: monospsce;
+    letter-spacing: .4rem;
+    font-size: 16px;
+}
+.navbar-brand{
+    letter-spacing: .4rem;
+    font-size: 22px;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: rgba(55, 223, 201, 0.758);
+}
+.footer{
+    background: rgba(7, 177, 135, 0.758);
+    height: 40px;
+    padding: 10px; 
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;  
+}
+.ag{
+   
+    margin-right: 0%;
+    font-size: 24px;  
+}
+h3{
+    font-size: 18px bold;
+    font-family: cursive;
+    color:rgb(23, 113, 113);
+}
